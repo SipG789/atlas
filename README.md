@@ -34,7 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
   ### Usage
   See video below
-   [![Watch the video](./src/)]
+   [![Watch the video](./assets/Challenge%2013.gif)]
 
   ### Collaborators
   none
